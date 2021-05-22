@@ -3,7 +3,7 @@
 <h3 align="center">A self-motivated frontend enthusiastic. Proudly Indian.</h3>
 
 <p align="left"> <a href="https://twitter.com/adepuujwala" target="blank"><img src="https://img.shields.io/twitter/follow/adepuujwala?logo=twitter&style=for-the-badge" alt="adepuujwala" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F2413754-Coding&psig=AOvVaw1vbmoHUM9RcXFHCXmvah9p&ust=1621766299863000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCt17qM3fACFQAAAAAdAAAAABAP">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
 
 - 🔭 I’m currently studying in **Mallareddy Engineering College**
