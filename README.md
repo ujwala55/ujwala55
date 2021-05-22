@@ -1,5 +1,5 @@
-<img src="https://previews.123rf.com/images/andreysuslov/andreysuslov1904/andreysuslov190400008/122953883-online-learning-programming-or-coding-on-different-computer-languages-for-mobile-desktop-platform-we.jpg" width="10000" height="400">
-<h1 align="center">Hello, this is Ujwala 👋👋</h1>
+<img src="https://previews.123rf.com/images/andreysuslov/andreysuslov1904/andreysuslov190400008/122953883-online-learning-programming-or-coding-on-different-computer-languages-for-mobile-desktop-platform-we.jpg" width="30000" height="400">
+<h1 align="center">This is Ujwala 👋👋</h1>
 <h3 align="center">A self-motivated frontend enthusiastic. Proudly Indian.</h3>
 
 <p align="left"> <a href="https://twitter.com/adepuujwala" target="blank"><img src="https://img.shields.io/twitter/follow/adepuujwala?logo=twitter&style=for-the-badge" alt="adepuujwala" /></a> </p>
