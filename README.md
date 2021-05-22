@@ -16,7 +16,7 @@
 <h3 align="left">Find me around the web🌏</h3>
 <p align="left">
 <a href="https://twitter.com/adepuujwala" target="blank"><img align="center" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" alt="adepuujwala" height="30" width="40" /></a>
-<a href="https://fb.com/ujwala adepu" target="blank"><img align="center" src="https://camo.githubusercontent.com/68395a7b109c74c379a2e19b46e78a7df724c05e8a35df5b2d4a85d3b6cb5369/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f66616365626f6f6b2e737667" alt="ujwala adepu" height="30" width="40" /></a>
+<a href="https://fb.com/ujwala adepu" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCuc_StnCcYDHYRSlrAmAwR0lhYYho3JvCfw&usqp=CAU" alt="ujwala adepu" height="30" width="40" /></a>
 <a href="https://instagram.com/ujwala_adepu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="ujwala_adepu_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/adepuujwala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="adepuujwala" height="30" width="40" /></a>
 </p>
