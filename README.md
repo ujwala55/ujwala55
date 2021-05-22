@@ -1,4 +1,4 @@
-<img src="https://previews.123rf.com/images/andreysuslov/andreysuslov1904/andreysuslov190400008/122953883-online-learning-programming-or-coding-on-different-computer-languages-for-mobile-desktop-platform-we.jpg" width="25000" height="400">
+<img src="https://previews.123rf.com/images/andreysuslov/andreysuslov1904/andreysuslov190400008/122953883-online-learning-programming-or-coding-on-different-computer-languages-for-mobile-desktop-platform-we.jpg" width="15000" height="400">
 <h1 align="center">This is Ujwala 👋👋</h1>
 <h3 align="center">A self-motivated frontend enthusiastic. Proudly Indian.</h3>
 
