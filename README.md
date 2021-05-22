@@ -1,4 +1,4 @@
-<a><img src="https://previews.123rf.com/images/andreysuslov/andreysuslov1904/andreysuslov190400008/122953883-online-learning-programming-or-coding-on-different-computer-languages-for-mobile-desktop-platform-we.jpg" width="200" height="50">https://github.com/ujwala55/ujwala55</a>
+<img src="https://previews.123rf.com/images/andreysuslov/andreysuslov1904/andreysuslov190400008/122953883-online-learning-programming-or-coding-on-different-computer-languages-for-mobile-desktop-platform-we.jpg" width="2000" height="200">
 <h1 align="center">Hello, this is Ujwala 👋👋</h1>
 <h3 align="center">A self-motivated frontend enthusiastic. Proudly Indian.</h3>
 
