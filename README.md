@@ -16,7 +16,7 @@
 <h3 align="left">Find me around the web🌏</h3>
 <p align="left">
 <a href="https://twitter.com/adepuujwala" target="blank"><img align="center" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" alt="adepuujwala" height="30" width="40" /></a>
-<a href="https://fb.com/ujwala adepu" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEMNIUQxqLebB8a-icdEB0eJkeFZ5GWm3ttw&usqp=CAU" alt="ujwala adepu" height="30" width="40" /></a>
+<a href="https://fb.com/ujwala adepu" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRiTXT3dSqaJI5qigchMvJUsZvQFf3umxfwA&usqp=CAU" alt="ujwala adepu" height="30" width="40" /></a>
 <a href="https://instagram.com/ujwala_adepu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="ujwala_adepu_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/adepuujwala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="adepuujwala" height="30" width="40" /></a>
 </p>
