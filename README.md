@@ -8,9 +8,7 @@
 
 - 🔭 I’m currently studying in **Mallareddy Engineering College**
 
-- 🌱 I’m currently learning **JavaScript & frameworks**
-
-- 💬 Ask me about **Frontend Stuff**
+- 🌱 I’m currently learning **java-servlets & jsp**
 
 - 📫 How to reach me **adepuujwala2001@gmail.com**
 
