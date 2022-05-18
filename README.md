@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **java-servlets & jsp**
 
-- 📫 How to reach me **adepuujwala2001@gmail.com**
+- 📫 How to reach me **adepuujwala@gmail.com**
 
 - ⚡ Fun fact **I think I'm funny XD**
 
